@@ -1,0 +1,35 @@
+
+.header{
+	font-size: 32px;
+	color: blue;
+	font-weight: bold;
+}
+
+table, th, td{
+	border: 1px dotted blue;
+	background-color: white;
+}
+
+.text{
+	width: 25%;
+	padding-top: 40px;
+	padding-right: 20px;
+	padding-bottom: 70px;
+	padding-left: 20px;
+}
+
+.image{
+	width: 50%;
+	padding: 30px 20px 40px 20px;
+
+}
+
+.types{
+	width: 25%;
+	vertical-align: top;
+	padding-top: 20px;
+}
+
+body{
+	background-color: #d3d3d3;
+}
