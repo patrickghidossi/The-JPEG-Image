@@ -11,7 +11,7 @@ table, th, td{
 }
 
 .text{
-	width: 25%;
+	width: 30%;
 	padding-top: 40px;
 	padding-right: 20px;
 	padding-bottom: 70px;
@@ -25,7 +25,7 @@ table, th, td{
 }
 
 .types{
-	width: 25%;
+	width: 20%;
 	vertical-align: top;
 	padding-top: 20px;
 }
